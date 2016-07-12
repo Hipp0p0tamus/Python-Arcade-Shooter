@@ -3,6 +3,6 @@ This is my first Python project. Its an arcade style shooter built using Pygame.
 
 
 ***** GAME INSTRUCTIONS *****
-"PRESS THE SPACE BAR TO SHOOT
+"PRESS THE SPACE BAR TO SHOOT"
 "USE THE ARROW KEYS TO MOVE AROUND"
 "DON'T GET HIT"
